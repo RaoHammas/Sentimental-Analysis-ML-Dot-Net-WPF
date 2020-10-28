@@ -5613,11 +5613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\MyMlAppML.Model\\MyMlAppML.Model.csproj",
+      "projectUniqueName": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\Sentimental-Analysis-ML-Dot-Net\\MyMlAppML.Model\\MyMlAppML.Model.csproj",
       "projectName": "MyMlAppML.Model",
-      "projectPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\MyMlAppML.Model\\MyMlAppML.Model.csproj",
+      "projectPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\Sentimental-Analysis-ML-Dot-Net\\MyMlAppML.Model\\MyMlAppML.Model.csproj",
       "packagesPath": "C:\\Users\\MyAzureWindow10\\.nuget\\packages\\",
-      "outputPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\MyMlAppML.Model\\obj\\",
+      "outputPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\Sentimental-Analysis-ML-Dot-Net\\MyMlAppML.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MyAzureWindow10\\AppData\\Roaming\\NuGet\\NuGet.Config",

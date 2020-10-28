@@ -5526,11 +5526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\WpfCoreSentimentalAnalysisApp\\WpfCoreSentimentalAnalysisApp.csproj",
+      "projectUniqueName": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\Sentimental-Analysis-ML-Dot-Net\\WpfCoreSentimentalAnalysisApp\\WpfCoreSentimentalAnalysisApp.csproj",
       "projectName": "WpfCoreSentimentalAnalysisApp",
-      "projectPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\WpfCoreSentimentalAnalysisApp\\WpfCoreSentimentalAnalysisApp.csproj",
+      "projectPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\Sentimental-Analysis-ML-Dot-Net\\WpfCoreSentimentalAnalysisApp\\WpfCoreSentimentalAnalysisApp.csproj",
       "packagesPath": "C:\\Users\\MyAzureWindow10\\.nuget\\packages\\",
-      "outputPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\WpfCoreSentimentalAnalysisApp\\obj\\",
+      "outputPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\Sentimental-Analysis-ML-Dot-Net\\WpfCoreSentimentalAnalysisApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MyAzureWindow10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5547,8 +5547,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\MyMlAppML.Model\\MyMlAppML.Model.csproj": {
-              "projectPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\MyMlAppML.Model\\MyMlAppML.Model.csproj"
+            "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\Sentimental-Analysis-ML-Dot-Net\\MyMlAppML.Model\\MyMlAppML.Model.csproj": {
+              "projectPath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\Sentimental-Analysis-ML-Dot-Net\\MyMlAppML.Model\\MyMlAppML.Model.csproj"
             }
           }
         }

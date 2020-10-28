@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TxXgPJ+3M8ocixxBrZaymmbtNcV194LinOv5GIP0m+8P+A9L18wIk9D5O/xePO9QkWpvbqAbRyfNZ5+SJZeyXw==",
+  "dgSpecHash": "WFrWHdHvOncbfysbq1wArLHas6BeERAN1cTPYEpva8ymhcWGJBUcLe14gyZ0NG+dEs9ivh+8r0H2G2ZG8Ms27A==",
   "success": true,
-  "projectFilePath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\MyMlAppML.ConsoleApp\\MyMlAppML.ConsoleApp.csproj",
+  "projectFilePath": "E:\\1- RAO HAMMAS\\ArtificialIntelligence\\1-MY ML LEARNING\\MyMlApp\\Sentimental-Analysis-ML-Dot-Net\\MyMlAppML.ConsoleApp\\MyMlAppML.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MyAzureWindow10\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\MyAzureWindow10\\.nuget\\packages\\microsoft.ml\\1.5.0\\microsoft.ml.1.5.0.nupkg.sha512",

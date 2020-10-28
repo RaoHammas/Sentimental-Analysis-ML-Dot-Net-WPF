@@ -7,3 +7,13 @@ E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\MyMlAppML.Model
 E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\MyMlAppML.Model\obj\Debug\netstandard2.1\MyMlAppML.Model.csproj.CoreCompileInputs.cache
 E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\MyMlAppML.Model\obj\Debug\netstandard2.1\MyMlAppML.Model.dll
 E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\MyMlAppML.Model\obj\Debug\netstandard2.1\MyMlAppML.Model.pdb
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\bin\Debug\netstandard2.1\MLModel.zip
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\bin\Debug\netstandard2.1\MyMlAppML.Model.deps.json
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\bin\Debug\netstandard2.1\MyMlAppML.Model.dll
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\bin\Debug\netstandard2.1\MyMlAppML.Model.pdb
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\obj\Debug\netstandard2.1\MyMlAppML.Model.csprojAssemblyReference.cache
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\obj\Debug\netstandard2.1\MyMlAppML.Model.AssemblyInfoInputs.cache
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\obj\Debug\netstandard2.1\MyMlAppML.Model.AssemblyInfo.cs
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\obj\Debug\netstandard2.1\MyMlAppML.Model.csproj.CoreCompileInputs.cache
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\obj\Debug\netstandard2.1\MyMlAppML.Model.dll
+E:\1- RAO HAMMAS\ArtificialIntelligence\1-MY ML LEARNING\MyMlApp\Sentimental-Analysis-ML-Dot-Net\MyMlAppML.Model\obj\Debug\netstandard2.1\MyMlAppML.Model.pdb
