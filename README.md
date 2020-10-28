@@ -4,7 +4,8 @@
  https://www.kaggle.com/kazanova/sentiment140   
  
  In order to run this app as it is, you need to have **MLModel.zip** file downloaded and placed in project's debug folders.
- You can download this from here https://www.kaggle.com/raohammas/sentimental-analysis-trained-model-on-mlnet   
+ You can download this from here https://www.kaggle.com/raohammas/sentimental-analysis-trained-model-on-mlnet . 
+ Don't forget to Rename the downloaded Zip file to **MLModel.zip** .   
  
  ![image](https://user-images.githubusercontent.com/16499626/97482969-c5b44000-194e-11eb-8b33-8a792a5253d1.png)   
  
