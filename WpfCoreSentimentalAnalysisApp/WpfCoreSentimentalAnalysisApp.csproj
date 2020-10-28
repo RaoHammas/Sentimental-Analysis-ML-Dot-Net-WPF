@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Angry.png" />
+    <None Remove="Happy.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyMlAppML.Model\MyMlAppML.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Angry.png" />
+    <Resource Include="Happy.png" />
+  </ItemGroup>
+
+</Project>

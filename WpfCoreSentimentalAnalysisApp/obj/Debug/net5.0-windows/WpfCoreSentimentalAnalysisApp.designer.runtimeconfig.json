@@ -1,0 +1,16 @@
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "5.0.0-rc.2.20475.6"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\MyAzureWindow10\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MyAzureWindow10\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
