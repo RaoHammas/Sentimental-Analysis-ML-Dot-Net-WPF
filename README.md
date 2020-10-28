@@ -7,8 +7,11 @@
  You can download this from here https://www.kaggle.com/raohammas/sentimental-analysis-trained-model-on-mlnet . 
  Don't forget to Rename the downloaded Zip file to **MLModel.zip** .   
  
+ Or download the release from this page https://github.com/RaoHammas/Sentimental-Analysis-ML-Dot-Net-WPF/releases/tag/v1.0  
+ 
+ 
  ![image](https://user-images.githubusercontent.com/16499626/97482969-c5b44000-194e-11eb-8b33-8a792a5253d1.png)   
  
  ![image](https://user-images.githubusercontent.com/16499626/97483134-fac09280-194e-11eb-9e62-2df9f90dac29.png)
 
-You can use it anywhere and anytime in anyway you want :) <3
+**You can use it anywhere and anytime in anyway you want :) <3**
